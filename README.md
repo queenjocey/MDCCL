@@ -1,6 +1,6 @@
 # MDCCL
 
-This is our Pytorch implementation for our ECIR 2023 paper:
+This is our Pytorch implementation for our ECIR 2024 paper:
 
 > Di You, Kyumin Lee(2023). Alleviating Confounding Effects with Contrastive Learning in Recommendation.
 
